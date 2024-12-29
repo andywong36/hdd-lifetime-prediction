@@ -1,7 +1,7 @@
 # hdd-lifetime-prediction
-A quick ML inference engine to predict the remaining life of your hard drive
+A quick ML inference engine to predict the remaining life of a hard disk drive.
 
-This is an implementation of the model described by the Amram et al. (2021). It use Backblaze data in order to train an AI that can predict the expected life left out of a hard drive. 
+This is an implementation of the model described by the Amram et al. (2021). The study used Backblaze data to train an predictive model that estimates the remaining useful life of a hard drive. 
 
 # Usage
 

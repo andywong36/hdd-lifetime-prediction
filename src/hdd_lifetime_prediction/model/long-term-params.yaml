@@ -1,0 +1,230 @@
+1:
+  expected_lifetime: 293.84948852491385
+  lower_lifetime: 13.594760766141002
+  lower_node: 2
+  median_lifetime: 275.8749071792283
+  n_samples: 50000
+  split_feature: smart_5_raw
+  split_threshold: 1.4999999999999998
+  upper_lifetime: 671.1948828737677
+  upper_node: 15
+2:
+  expected_lifetime: 314.8637656535058
+  lower_lifetime: 24.584630317683203
+  lower_node: 3
+  median_lifetime: 301.6271916901786
+  n_samples: 45249
+  split_feature: smart_3_normalized
+  split_threshold: 94.5
+  upper_lifetime: 678.2863064877876
+  upper_node: 8
+3:
+  expected_lifetime: 225.4423130787921
+  lower_lifetime: 14.445065478290413
+  lower_node: 4
+  median_lifetime: 197.37752343425626
+  n_samples: 15031
+  split_feature: smart_3_normalized
+  split_threshold: 89.5
+  upper_lifetime: 580.5899345973803
+  upper_node: 5
+4:
+  expected_lifetime: 157.51995780897246
+  lower_lifetime: 8.688787520802544
+  lower_node: null
+  median_lifetime: 135.84774043037515
+  n_samples: 3054
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 436.71969486490957
+  upper_node: null
+5:
+  expected_lifetime: 242.71809437628193
+  lower_lifetime: 17.171198555220652
+  lower_node: 6
+  median_lifetime: 218.52155653741758
+  n_samples: 11977
+  split_feature: smart_3_normalized
+  split_threshold: 92.5
+  upper_lifetime: 590.1129805851104
+  upper_node: 7
+6:
+  expected_lifetime: 207.05006656374627
+  lower_lifetime: 14.823870142901148
+  lower_node: null
+  median_lifetime: 176.5194285787522
+  n_samples: 5810
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 551.32617619249
+  upper_node: null
+7:
+  expected_lifetime: 276.3315409152338
+  lower_lifetime: 21.086563249558207
+  lower_node: null
+  median_lifetime: 263.7432142532636
+  n_samples: 6167
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 608.2135071357179
+  upper_node: null
+8:
+  expected_lifetime: 359.3068778958758
+  lower_lifetime: 38.05136972560126
+  lower_node: 9
+  median_lifetime: 361.4530854854252
+  n_samples: 30218
+  split_feature: smart_7_raw
+  split_threshold: 303757518.5
+  upper_lifetime: 697.5723509703722
+  upper_node: 12
+9:
+  expected_lifetime: 399.46285727363954
+  lower_lifetime: 40.81451434762982
+  lower_node: 10
+  median_lifetime: 420.8216550135318
+  n_samples: 12420
+  split_feature: smart_3_normalized
+  split_threshold: 98.5
+  upper_lifetime: 740.6852652682906
+  upper_node: 11
+10:
+  expected_lifetime: 371.5340803630927
+  lower_lifetime: 37.69398985414083
+  lower_node: null
+  median_lifetime: 363.22794543513817
+  n_samples: 8514
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 730.754632906568
+  upper_node: null
+11:
+  expected_lifetime: 460.0875751101033
+  lower_lifetime: 56.099999999999135
+  lower_node: null
+  median_lifetime: 506.1385277172223
+  n_samples: 3906
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 750.1521644347555
+  upper_node: null
+12:
+  expected_lifetime: 331.37912291563214
+  lower_lifetime: 36.37586206896542
+  lower_node: 13
+  median_lifetime: 339.64849488443974
+  n_samples: 17798
+  split_feature: smart_7_raw
+  split_threshold: 616066633.0
+  upper_lifetime: 627.5434771226506
+  upper_node: 14
+13:
+  expected_lifetime: 358.71177068889637
+  lower_lifetime: 37.275000000000226
+  lower_node: null
+  median_lifetime: 380.60091847606463
+  n_samples: 9448
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 654.0815083213932
+  upper_node: null
+14:
+  expected_lifetime: 300.4665868263473
+  lower_lifetime: 35.53571428571421
+  lower_node: null
+  median_lifetime: 305.0208333333333
+  n_samples: 8350
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 561.4999999999999
+  upper_node: null
+15:
+  expected_lifetime: 93.87413176173347
+  lower_lifetime: 2.378695652173917
+  lower_node: 16
+  median_lifetime: 64.75000000000001
+  n_samples: 4751
+  split_feature: smart_197_raw
+  split_threshold: 4.0
+  upper_lifetime: 344.45000000000005
+  upper_node: 23
+16:
+  expected_lifetime: 94.30746110325289
+  lower_lifetime: 2.598913043478257
+  lower_node: 17
+  median_lifetime: 65.19512195121942
+  n_samples: 4242
+  split_feature: smart_3_normalized
+  split_threshold: 93.5
+  upper_lifetime: 343.9000000000011
+  upper_node: 20
+17:
+  expected_lifetime: 68.98351040283016
+  lower_lifetime: 2.293137254901956
+  lower_node: 18
+  median_lifetime: 50.71875000000002
+  n_samples: 2259
+  split_feature: smart_187_normalized
+  split_threshold: 99.50000000000001
+  upper_lifetime: 262.01250000000005
+  upper_node: 19
+18:
+  expected_lifetime: 50.60643889618759
+  lower_lifetime: 1.2762500000000019
+  lower_node: null
+  median_lifetime: 33.0625
+  n_samples: 761
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 206.80000000000013
+  upper_node: null
+19:
+  expected_lifetime: 78.49883177569924
+  lower_lifetime: 4.042857142857164
+  lower_node: null
+  median_lifetime: 60.961538461538495
+  n_samples: 1498
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 276.09999999999985
+  upper_node: null
+20:
+  expected_lifetime: 123.27748361069176
+  lower_lifetime: 2.979268292682925
+  lower_node: 21
+  median_lifetime: 90.68749999999994
+  n_samples: 1983
+  split_feature: smart_5_raw
+  split_threshold: 233.5
+  upper_lifetime: 400.3125
+  upper_node: 22
+21:
+  expected_lifetime: 147.2589441535791
+  lower_lifetime: 6.2999999999999305
+  lower_node: null
+  median_lifetime: 120.84615384615397
+  n_samples: 1146
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 418.8
+  upper_node: null
+22:
+  expected_lifetime: 90.66965352449007
+  lower_lifetime: 1.8616666666666672
+  lower_node: null
+  median_lifetime: 60.57142857142856
+  n_samples: 837
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 334.57500000000005
+  upper_node: null
+23:
+  expected_lifetime: 90.69204322200115
+  lower_lifetime: 1.5187499999999985
+  lower_node: null
+  median_lifetime: 57.99999999999994
+  n_samples: 509
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 347.42499999999967
+  upper_node: null

@@ -1,0 +1,310 @@
+1:
+  expected_lifetime: 66.15478041179962
+  lower_lifetime: 3.772846601352255
+  lower_node: 2
+  median_lifetime: 91.0
+  n_samples: 50000
+  split_feature: smart_5_raw
+  split_threshold: 12.0
+  upper_lifetime: 91.0
+  upper_node: 17
+2:
+  expected_lifetime: 77.27594764281217
+  lower_lifetime: 8.149396689956559
+  lower_node: 3
+  median_lifetime: 91.0
+  n_samples: 48591
+  split_feature: smart_3_normalized
+  split_threshold: 90.5
+  upper_lifetime: 91.0
+  upper_node: 10
+3:
+  expected_lifetime: 75.07726396966034
+  lower_lifetime: 6.442644377464725
+  lower_node: 4
+  median_lifetime: 91.0
+  n_samples: 21598
+  split_feature: smart_7_normalized
+  split_threshold: 86.5
+  upper_lifetime: 91.0
+  upper_node: 7
+4:
+  expected_lifetime: 71.31908616273873
+  lower_lifetime: 5.708378164326653
+  lower_node: 5
+  median_lifetime: 91.0
+  n_samples: 8963
+  split_feature: smart_7_raw
+  split_threshold: 409776169.5
+  upper_lifetime: 91.0
+  upper_node: 6
+5:
+  expected_lifetime: 75.63121508190302
+  lower_lifetime: 9.218870335189905
+  lower_node: null
+  median_lifetime: 91.0
+  n_samples: 8129
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+6:
+  expected_lifetime: 39.38049091025071
+  lower_lifetime: 1.805555555555552
+  lower_node: null
+  median_lifetime: 23.810152954390173
+  n_samples: 834
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+7:
+  expected_lifetime: 77.35356706668796
+  lower_lifetime: 7.146782255311404
+  lower_node: 8
+  median_lifetime: 91.0
+  n_samples: 12635
+  split_feature: smart_190_normalized
+  split_threshold: 79.5
+  upper_lifetime: 91.0
+  upper_node: 9
+8:
+  expected_lifetime: 81.17356581227988
+  lower_lifetime: 7.813502301566642
+  lower_node: null
+  median_lifetime: 91.0
+  n_samples: 11806
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+9:
+  expected_lifetime: 47.60094615968934
+  lower_lifetime: 3.8874999999999895
+  lower_node: null
+  median_lifetime: 46.063816426317985
+  n_samples: 829
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+10:
+  expected_lifetime: 78.66999515840095
+  lower_lifetime: 9.924359284826373
+  lower_node: 11
+  median_lifetime: 91.0
+  n_samples: 26993
+  split_feature: smart_190_raw
+  split_threshold: 29.5
+  upper_lifetime: 91.0
+  upper_node: 14
+11:
+  expected_lifetime: 81.4876720413955
+  lower_lifetime: 10.838094011999683
+  lower_node: 12
+  median_lifetime: 91.0
+  n_samples: 18366
+  split_feature: smart_3_normalized
+  split_threshold: 98.5
+  upper_lifetime: 91.0
+  upper_node: 13
+12:
+  expected_lifetime: 84.36308056754658
+  lower_lifetime: 16.736828271836572
+  lower_node: null
+  median_lifetime: 91.0
+  n_samples: 16868
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+13:
+  expected_lifetime: 52.35451510523248
+  lower_lifetime: 3.254517304564592
+  lower_node: null
+  median_lifetime: 51.95334081452855
+  n_samples: 1498
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+14:
+  expected_lifetime: 74.22558746932417
+  lower_lifetime: 8.661125717641424
+  lower_node: 15
+  median_lifetime: 91.0
+  n_samples: 8627
+  split_feature: smart_7_raw
+  split_threshold: 359546190.50000006
+  upper_lifetime: 91.0
+  upper_node: 16
+15:
+  expected_lifetime: 88.8501513875531
+  lower_lifetime: 41.014982393556046
+  lower_node: null
+  median_lifetime: 91.0
+  n_samples: 4228
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+16:
+  expected_lifetime: 64.47879615721591
+  lower_lifetime: 5.723183611202071
+  lower_node: null
+  median_lifetime: 74.24062306614641
+  n_samples: 4399
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+17:
+  expected_lifetime: 28.91331421746567
+  lower_lifetime: 1.3529527600473625
+  lower_node: 18
+  median_lifetime: 24.314276988066904
+  n_samples: 1409
+  split_feature: smart_187_normalized
+  split_threshold: 98.5
+  upper_lifetime: 80.41993749824105
+  upper_node: 25
+18:
+  expected_lifetime: 19.76400862068966
+  lower_lifetime: 0.8529411764705883
+  lower_node: 19
+  median_lifetime: 15.320754716981135
+  n_samples: 227
+  split_feature: smart_187_raw
+  split_threshold: 17.5
+  upper_lifetime: 58.666666666666664
+  upper_node: 22
+19:
+  expected_lifetime: 21.014920424403183
+  lower_lifetime: 0.8976190476190475
+  lower_node: 20
+  median_lifetime: 16.399999999999995
+  n_samples: 188
+  split_feature: smart_187_normalized
+  split_threshold: 87.5
+  upper_lifetime: 63.574999999999996
+  upper_node: 21
+20:
+  expected_lifetime: 31.04505300353358
+  lower_lifetime: 1.4392857142857136
+  lower_node: null
+  median_lifetime: 30.625000000000014
+  n_samples: 16
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 68.9625
+  upper_node: null
+21:
+  expected_lifetime: 15.004777070063705
+  lower_lifetime: 0.6926470588235296
+  lower_node: null
+  median_lifetime: 11.785714285714286
+  n_samples: 172
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 43.61249999999999
+  upper_node: null
+22:
+  expected_lifetime: 17.48091133004921
+  lower_lifetime: 0.7807692307692304
+  lower_node: 23
+  median_lifetime: 13.782608695652172
+  n_samples: 39
+  split_feature: smart_7_raw
+  split_threshold: 492733657.50000006
+  upper_lifetime: 51.425
+  upper_node: 24
+23:
+  expected_lifetime: 21.415975103734482
+  lower_lifetime: 1.0500000000000018
+  lower_node: null
+  median_lifetime: 17.875
+  n_samples: 17
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 53.4875
+  upper_node: null
+24:
+  expected_lifetime: 11.89242424242429
+  lower_lifetime: 0.5500000000000006
+  lower_node: null
+  median_lifetime: 9.63636363636364
+  n_samples: 22
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 34.37500000000001
+  upper_node: null
+25:
+  expected_lifetime: 34.72335087268135
+  lower_lifetime: 2.3024655633015882
+  lower_node: 26
+  median_lifetime: 31.05397540834055
+  n_samples: 1182
+  split_feature: smart_190_raw
+  split_threshold: 27.5
+  upper_lifetime: 84.90978161978859
+  upper_node: 29
+26:
+  expected_lifetime: 37.57210941683401
+  lower_lifetime: 2.7820631857606033
+  lower_node: 27
+  median_lifetime: 34.06003882113406
+  n_samples: 687
+  split_feature: smart_5_raw
+  split_threshold: 660.0
+  upper_lifetime: 91.0
+  upper_node: 28
+27:
+  expected_lifetime: 41.676608277880355
+  lower_lifetime: 3.2363587808636547
+  lower_node: null
+  median_lifetime: 38.68940335311677
+  n_samples: 482
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 91.0
+  upper_node: null
+28:
+  expected_lifetime: 31.05716080402009
+  lower_lifetime: 2.3266666666666627
+  lower_node: null
+  median_lifetime: 28.571428571428555
+  n_samples: 205
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 77.55
+  upper_node: null
+29:
+  expected_lifetime: 30.680330129925494
+  lower_lifetime: 1.8476421701372687
+  lower_node: 30
+  median_lifetime: 27.510211702494875
+  n_samples: 495
+  split_feature: smart_3_normalized
+  split_threshold: 89.5
+  upper_lifetime: 76.7109295352034
+  upper_node: 31
+30:
+  expected_lifetime: 41.9023119613598
+  lower_lifetime: 3.066807768576569
+  lower_node: null
+  median_lifetime: 41.583296951807846
+  n_samples: 173
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 81.87221979678718
+  upper_node: null
+31:
+  expected_lifetime: 24.97981366459631
+  lower_lifetime: 1.5479166666666655
+  lower_node: null
+  median_lifetime: 23.05882352941176
+  n_samples: 322
+  split_feature: null
+  split_threshold: 0.0
+  upper_lifetime: 62.962500000000006
+  upper_node: null

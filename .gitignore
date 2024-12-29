@@ -172,3 +172,9 @@ cython_debug/
 
 # pyenv stuff
 .python-version
+
+# html source files
+*.html*
+
+# scratch
+*scratch*

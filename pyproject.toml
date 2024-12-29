@@ -7,14 +7,21 @@ authors = [
 ]
 requires-python = ">=3.11"
 dynamic = ["version"]
+dependencies = [
+    "numpy",
+    "pyyaml",
+    "flask"
+]
 
 [project.optional-dependencies]
 dev = [
     "beautifulsoup4",
     "jupyter[lab]",
     "jupytext",
-    "scipy",
 ]
 
 [tool.setuptools.packages]
 find = {where = ["src"]}
+
+[tool.setuptools.package-data]
+"*" = ["*.yaml"]

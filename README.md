@@ -7,9 +7,27 @@ This is an implementation of the model described by the Amram et al. (2021). It 
 
 A basic example of this tool can be shown below:
 
-`sudo smartctl -a /dev/sdX | curl -d @- http://andywong.io/hdd-lifetime-prediction/`
+``` sh
+docker build -t hdd-lifetime-prediction-app .
+docker run -p 8080:8080 hdd-lifetime-prediction-app
+
+sudo smartctl -A /dev/sdX | curl -X POST -H "Content-Type: text/plain" --data-binary @- localhost:8080/hdd-lifetime-prediction/
+```
 
 ## Output:
 ```
-> This drive has a remaining life of 250 days (low: 125, high: 500)
+{
+  "predicted_lifetime": 276.3315409152338,
+  "predicted_stats": {
+    "expected_lifetime": 276.3315409152338,
+    "lower_lifetime": 21.086563249558207,
+    "lower_node": null,
+    "median_lifetime": 263.7432142532636,
+    "n_samples": 6167,
+    "split_feature": null,
+    "split_threshold": 0.0,
+    "upper_lifetime": 608.2135071357179,
+    "upper_node": null
+  }
+}
 ```

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from hdd_lifetime_prediction.utils.nodeparser import ParsedNode
+from hdd_lifetime_prediction.utils.node import ParsedNode
 from .smartctl import SMARTAttributes
 import yaml
 from pathlib import Path

@@ -1,22 +1,10 @@
 import json
-from dataclasses import dataclass
 from importlib.resources import files
 
 import numpy as np
 from bs4 import BeautifulSoup
 
-
-@dataclass
-class ParsedNode:
-    split_feature: str | None
-    split_threshold: float | None
-    lower_node: int | None
-    upper_node: int | None
-    expected_lifetime: float
-    n_samples: int
-    median_lifetime: float
-    lower_lifetime: float
-    upper_lifetime: float
+from .node import ParsedNode
 
 def find_matching_brace(s, start_index):
     """Finds the position of the matching closing brace for a given opening brace."""

@@ -1,0 +1,20 @@
+[project]
+name = "hdd-lifetime-prediction"
+description = "Predicting HDD lifetime using machine learning"
+license = {text = "MIT License"}
+authors = [
+    {name = "Andy Wong", email = "awong36@gmail.com"}
+]
+requires-python = ">=3.11"
+dynamic = ["version"]
+
+[project.optional-dependencies]
+dev = [
+    "beautifulsoup4",
+    "jupyter[lab]",
+    "jupytext",
+    "scipy",
+]
+
+[tool.setuptools.packages]
+find = {where = ["src"]}
